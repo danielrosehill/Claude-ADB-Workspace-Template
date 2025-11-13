@@ -1,5 +1,9 @@
 # Claude-ADB-Workspace-Template
 
+[![Claude Code](https://img.shields.io/badge/Claude-Code-8A2BE2)](https://claude.ai/code)
+[![Claude Code Projects](https://img.shields.io/badge/Claude_Code-Projects_Index-blue)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+[![GitHub Master Index](https://img.shields.io/badge/GitHub-Master_Index-green)](https://github.com/danielrosehill/Github-Master-Index)
+
 A version-controlled workspace template for managing Android devices through ADB with Claude Code.
 
 ## Overview
@@ -75,3 +79,7 @@ This template provides a structured environment for Android device management, o
 ## License
 
 Private workspace template - customize as needed for your devices.
+
+---
+
+To view an index of my Claude Code related projects, [click here](https://github.com/danielrosehill/Claude-Code-Repos-Index).
